@@ -1,0 +1,219 @@
+{
+  "settings": {
+    "name": "akmboru",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 8,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-0",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/panellogo-406x128.jpg",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://www.akmboru.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AKM BORU</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Anasayfa</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-3\"><span class=\"mbri-setting3 mbr-iconfont mbr-iconfont-btn\"></span>Ürünler</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-7\"><span class=\"mbri-file mbr-iconfont mbr-iconfont-btn\"></span>Belgeler</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-5\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>Hakkımızda</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-4\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>İletişim</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">İletişim<br></a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Ürünler!",
+          "caption": "<p><span style=\"font-size: 1.25rem; line-height: 1.5;\">* SİLİNDİR CONTALI BORULAR&nbsp;<br></span>*&nbsp;<span style=\"font-size: 1.25rem; line-height: 1.5;\">&nbsp;KONİK\t1000 mm KONİK ELEMAN&nbsp;<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">130X170 mm TABAN ÜST PLAKASI&nbsp;<br></span><span style=\"font-size: 1.25rem; line-height: 1.5;\">* ENTEGRE CONTALI BORULAR<br></span><span style=\"font-size: 1.25rem; line-height: 1.5;\">*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">ÇERÇEVESİZ PARSEL KAPAĞI&nbsp;<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">600 mm MUAYENE BACA BETON KAPAK VE ÇERÇEVESİ<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">70X100 YAĞMURSUYU IZGARA ÜST&nbsp;<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">70X200 U TİP YAĞMURSUYU IZGARA&nbsp;<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">70x200 YAĞMURSUYU IZGARA MENHOL ÜST PARÇASI&nbsp;<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">70X70 YAĞMURSUYU IZGARA MENHOLÜ<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">800 mm Çaplı<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">800 mm Çaplı Parsel Gövde Bileziği<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">800 mm Çıkış Çaplı<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">800 mm PARSEL TABAN ELEMANI<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">620CER\tÇERÇEVE MONTAJ ELEMANI&nbsp;<br>*&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">MUAYENE BACA ÜST PLAKASI&nbsp;</span></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Hakkımızda!",
+          "caption": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998 Yılında Burdur ili BUCAK ilçesinde kurulan Beton ve Betonarme&nbsp;<span style=\"font-size: 1.25rem; line-height: 1.5;\">Borular ile Prefabrik Altyapı Elemanları fabrikamız kurulduğu tarihten&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">bugüne kadar her zaman kalite ve müşteri memnuniyetini ön planda&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">tutmuş,kendisini çağın gereksinimleri ile devamlı yenileyerek bugüne&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">başarı ile gelmiştir. İlk kurulduğu zaman sistem olarak düz contalı&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">sistem ile başlamış 2007 yılı içerisinde yine çağın gereksinimleri&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">doğrultusunda Entegre Contalı sisteme geçmiş ve yine bunun yanı sıra&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">kendine olan güveni ve kalite anlayışı ile 2007 yılı içerisinde çevre&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">düzenleme elemanları üretimleri ile ( Parke , Bordür , Su oluğu v.s. gibi )&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">ürün çeşitliliğini arttırmış bulunmaktadır.&nbsp;</span></p><p>&nbsp; &nbsp; &nbsp;Firmamız İller Bankası Üretim iznine sahip olmakla birlikte , 2007 yılı&nbsp;<span style=\"font-size: 1.25rem; line-height: 1.5;\">içerisinde ASAT ve Dünya Bankası Kredili işler için gerekli olan üretim&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">iznini almış bulunmaktadır. Ayrıca TSE 821 EN 1916 imalat yeterlilik&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">belgesini 2008 yılı içerisinde almış olup sahip olduğu belge&nbsp;</span><span style=\"font-size: 1.25rem; line-height: 1.5;\">standartlarında üretimine devam etmektedir.</span></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/136-2000x2751-800x1100.jpg",
+                "image": "@PROJECT_PATH@/assets/images/136-2000x2751.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/154-2000x2841-800x1136.jpg",
+                "image": "@PROJECT_PATH@/assets/images/154-2000x2841.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/155-2000x2841-800x1136.jpg",
+                "image": "@PROJECT_PATH@/assets/images/155-2000x2841.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/156-2000x2785-800x1114.jpg",
+                "image": "@PROJECT_PATH@/assets/images/156-2000x2785.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg"
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg"
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/photo-12-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-12.jpg"
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/photo-13-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-13.jpg"
+              }
+            ],
+            "bgColor": "#c7b5db",
+            "showBullets": true
+          },
+          "_anchor": "gallery1-7",
+          "articleLayout": false
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Yeni Mah. 1277 Sok. No:4\nBucak / Burdur",
+              "placeId": "Ek1ZZW5pIE1haGFsbGVzaSwgMTI3Ny4gU2suIE5vOjQsIDE1MzAwIFNleWRpa8O2eSBLw7Z5w7wvQnVjYWsvQnVyZHVyLCBUw7xya2l5ZQ",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<span style=\"font-size: 1rem; line-height: 1.5;\">Akm İnş. Nak. Tur. Mer. San ve Tic. Ltd. ti</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">Büro</span><br>Yeni Mah. 1277 Sok. No:4<br>Bucak / Burdur<br><span style=\"font-size: 1rem; line-height: 1.5;\">Tel: (0248) 325 7370 Pbx</span><br>Fax: (0248) 325 5375<br><br>Fabrika-1<br>Çamlca Mahallesi Eskiköy Mevkii<br>Bucak / Burdur<br><br>Tel: (0248) 317 1372 <br>Fax: (0248) 317 1373<br><br><br>",
+          "text2": "<strong>Linkler</strong><ul><li><a href=\"http://www.Goksanbeton.com\">Goksanbeton.com</a></li></ul><p><br></p><p><br></p><p><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Fabrika-2</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Boğaçay Mevkii<br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Konyaalt/Antalya</span><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Tel: (0242) 259 0064&nbsp;<br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Fax: (0242) 2590064</span></p>"
+        }
+      ]
+    }
+  }
+}
